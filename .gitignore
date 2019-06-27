@@ -3,5 +3,6 @@
 *.pdf
 notes
 *.csv
-/data
+/data/
+!/data/new_buildings.csv
 /code/test
