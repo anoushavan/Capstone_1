@@ -1,6 +1,5 @@
 # ignore the below files and folders
 
-*.pdf
 notes
 *.csv
 /data/
